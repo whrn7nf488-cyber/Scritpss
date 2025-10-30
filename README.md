@@ -1,0 +1,2 @@
+# Scritpss
+Scripts necesarios 
